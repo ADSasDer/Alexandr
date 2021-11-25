@@ -1,7 +1,7 @@
 <?php
 echo "Hello!<br>";
 echo "Welcome to this site<br>";
-echo "Hello World!<br>";
+echo "Hello WorldEE!<br>";
 $index = 10;
 do
 {
